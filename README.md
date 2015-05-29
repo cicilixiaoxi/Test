@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # TEST
 
 Hopefully this works!
